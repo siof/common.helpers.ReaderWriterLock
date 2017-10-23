@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net452</TargetFrameworks>
+    <Authors>siof</Authors>
+    <Company />
+    <Description>Helpers for ReaderWriterLockSlim to use it within using keyword.</Description>
+    <PackageId>siof.Common.Helpers.ReaderWriterLock</PackageId>
+    <PackageProjectUrl>https://github.com/siof/common.helpers.ReaderWriterLock</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/siof/common.helpers.ReaderWriterLock</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageLicenseUrl>https://github.com/siof/common.helpers.ReaderWriterLock/blob/master/LICENSE</PackageLicenseUrl>
+  </PropertyGroup>
+
+</Project>
