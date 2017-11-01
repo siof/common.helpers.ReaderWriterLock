@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFrameworks>netstandard2.0;net452</TargetFrameworks>
+	<Title>Common.Helpers.ReaderWriterLock</Title>
     <Authors>siof</Authors>
     <Company />
     <Description>Helpers for ReaderWriterLockSlim to use it within using keyword.</Description>
@@ -10,6 +11,7 @@
     <RepositoryUrl>https://github.com/siof/common.helpers.ReaderWriterLock</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageLicenseUrl>https://github.com/siof/common.helpers.ReaderWriterLock/blob/master/LICENSE</PackageLicenseUrl>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
